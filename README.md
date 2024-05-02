@@ -1,4 +1,4 @@
-This is a website which primarily focuses on identifying deepfake media, made in HTML, CSS and Javascript.
+This is a website which primarily focuses on identifying deepfake media using a machine learning model(in Jupyter) trained on a vast data set, made in HTML, CSS, Javascript and also contains ReactJS Components.
 ![image](https://github.com/ap00rvasaini/Web-Development-Project/assets/157739053/7ac5d15b-f6eb-473e-ae7c-96934c5f00aa)
 ![image](https://github.com/ap00rvasaini/Web-Development-Project/assets/157739053/b27d9836-f6ad-4e9f-a3a8-eeae7f4f1539)
 ![image](https://github.com/ap00rvasaini/Web-Development-Project/assets/157739053/505a9422-8613-4a9f-b68a-8079c8430861)
