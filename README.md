@@ -2,7 +2,7 @@ This is a website which primarily focuses on identifying deepfake media using a 
 
 To preview it live, visit https://htmlpreview.github.io/?https://raw.githubusercontent.com/ap00rvasaini/Web-Development-Project/main/about.html
 
-Or if a few elements(like images) fail to load, download index.html and run it through VScode.
+Or if a few elements(like images) fail to load as shown in the pictures below, download index.html and run it through VScode.
 
 
 ![image](https://github.com/ap00rvasaini/Web-Development-Project/assets/157739053/7ac5d15b-f6eb-473e-ae7c-96934c5f00aa)
